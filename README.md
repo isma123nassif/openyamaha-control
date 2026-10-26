@@ -37,8 +37,8 @@ así que no hace falta el móvil ni el mando físico.
 ## Instalación
 
 ```sh
-git clone https://github.com/<tu-usuario>/yamaha-control.git
-cd yamaha-control
+git clone https://github.com/isma123nassif/openyamaha-control.git
+cd openyamaha-control
 ./install.sh                # lanzador en el menú de aplicaciones
 ./install.sh --autostart    # además, arranque minimizado en la bandeja al iniciar sesión
 ./install.sh --uninstall    # quitarlo
